@@ -65,7 +65,8 @@
     "@supabase/auth-ui-react": "latest",
     "@supabase/auth-ui-shared": "latest",
     "@dnd-kit/sortable": "latest",
-    "@dnd-kit/utilities": "latest"
+    "@dnd-kit/utilities": "latest",
+    "react-router-dom": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
